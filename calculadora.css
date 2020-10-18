@@ -1,0 +1,41 @@
+
+.calculadora {
+	display: block;
+	margin: 0 auto;
+	padding: 20px;
+	margin-top: 20px;
+	width: 500px;
+	height: 600px;
+	border-radius: 25px;
+	background-image: url('1234.jpg');
+	
+}
+
+.calculadora td button {
+	display: block;
+	width: 110px;
+	height: 70px;
+	font-size: 20px;
+	background-color: #111111;
+	color: white;
+	font-family: 'Comic Sans MS';
+}
+
+#total {
+	display: block;
+	text-align: center;
+	font-size: 45px;
+	font-family: 'Comic Sans MS';
+	color: cornsilk;
+	margin-bottom: 50px;
+	width: 450px;
+	height: 150px;
+	line-height: 100px;
+	background-color: #111111;
+	border-radius: 25%;
+}
+
+.nome{
+	justify-content: center;
+	align-items: center;
+}
